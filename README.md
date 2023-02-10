@@ -11,3 +11,9 @@ The report and questions can be found [here](https://github.com/AlessiaLeclercq/
 
 The delivered notebook can be found [here](https://github.com/AlessiaLeclercq/NetworkDynamics/blob/main/Homework2.ipynb).
 
+## Homework 3
+The report can be found [here]
+(https://github.com/AlessiaLeclercq/NetworkDynamics/blob/main/Homework3.pdf)
+
+The delivered notwebook can be found [here]
+(https://github.com/AlessiaLeclercq/NetworkDynamics/blob/main/Homework3.ipynb)
